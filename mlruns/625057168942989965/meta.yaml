@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/625057168942989965
+creation_time: 1734010818888
+experiment_id: '625057168942989965'
+last_update_time: 1734010818888
+lifecycle_stage: active
+name: YoloV8_from_scratch
